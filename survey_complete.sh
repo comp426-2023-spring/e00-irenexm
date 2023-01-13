@@ -1,5 +1,5 @@
 #!/bin/bash
 
-EXAMCODE=confused pony bicycle gelato 123456
+EXAMCODE=591725412
 
 echo ${EXAMCODE}
